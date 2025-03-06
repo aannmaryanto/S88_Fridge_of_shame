@@ -27,6 +27,8 @@ Database: MongoDB
 Auth: Firebase Auth
 Storage (for images): Cloudinary
 Deployment: Vercel (Frontend) & Render (Backend)
+
+
 Why This Project?
 
 This project makes fun of a common problem while teaching core web development concepts like user authentication, CRUD operations, image uploads, and real-time notifications. The leaderboard and gamification elements make it engaging, while the AI-generated excuses add a quirky touch. Plus, it might actually help people waste less food!
